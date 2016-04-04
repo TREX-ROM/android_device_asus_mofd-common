@@ -350,8 +350,8 @@
          com.android.internal.os.DeviceKeyHandler interface. 
     <string name="config_deviceKeyHandlerClass" translatable="false">com.cyanogenmod.settings.device.KeyHandler</string>-->
 
-    <!-- Disables Button backlight settings -->
-    <integer name="config_buttonBrightnessSettingDefault">0</integer>
+    <!-- Disables Button backlight settings 
+    <integer name="config_buttonBrightnessSettingDefault">0</integer>-->
 
     <!-- Performance profiles -->
     <!-- string name="config_perf_profile_prop">sys.perf.profile</string -->
