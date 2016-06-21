@@ -51,9 +51,8 @@
 
         <SwitchPreference
             android:key="touchscreen_gesture_haptic_feedback"
-            android:persistent="false"
-            android:title="@*cyanogenmod.platform:string/touchscreen_gesture_haptic_feedback"
-            android:summary="@*cyanogenmod.platform:string/touchscreen_gesture_haptic_feedback_summary" />
+            android:title="@string/haptic_feedback"
+            android:summary="@string/haptic_feedback_summary" />
 
     </PreferenceCategory>
 </PreferenceScreen>
